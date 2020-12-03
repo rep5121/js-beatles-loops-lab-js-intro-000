@@ -28,7 +28,7 @@ function iLoveTheBeatles(p){
 
   do {
     newArr.push("I love the Beatles!");
-    return NewArr;
+    return newArr;
     p++;
   } while (p <= 15);
 }
